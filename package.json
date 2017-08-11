@@ -1,6 +1,6 @@
 {
   "name": "add-eslint-comment",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Add ESLint comment per file according to the ESLint result.",
   "main": "index.js",
   "bin": {
