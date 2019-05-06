@@ -1,5 +1,8 @@
 # Add ESLint Comment
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xcatliu/add-eslint-comment.svg)](https://greenkeeper.io/)
+
+
 Every time when I trying to add ESLint to an old project, it's painful to fix errors like `eqeqeq` or `no-var`.
 
 One way is to enable these rules and add eslint comment to the old files to prevent new files breaking these rules.
